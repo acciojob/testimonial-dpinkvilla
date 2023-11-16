@@ -9,14 +9,11 @@ body{
 #first-para{
 	padding:10px;
 	border:1px solid grey;
-	
 	background-color:white;
-	
 }
 #second-para{
 	padding:10px;
 	border:1px solid grey;
-	
 	background-color:white;
 }
 #first-para p:nth-child(2){
